@@ -1,0 +1,30 @@
+table {
+  border-collapse : collapse;
+  border-spacing : 0;
+}
+
+td {
+  font-size : 12px;
+  width : 12px;
+  height : 12px;
+  border : 1px solid #EEE;
+  margin : 0;
+  padding 0;
+}
+
+ul {
+  font-family : monospace;
+}
+
+.with-coord {
+  font-size : normal;
+  color : black;
+}
+
+.without-coord {
+  color : gray;
+}
+
+.transition-highlighted {
+  background-color : pink
+}
